@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=+3VD Pin=L5-2
+Removed Pin From Net: NetName=+3VD Pin=L6-2
+Removed Pin From Net: NetName=NetR13_1 Pin=R15-1
+Removed Pin From Net: NetName=NetR13_1 Pin=R16-2
+Removed Pin From Net: NetName=NetR13_1 Pin=U2-35
+Removed Member From Class: ClassName=ifog-pcb-analogModule Member=C46
+Removed Member From Class: ClassName=ifog-pcb-analogModule Member=C47
+Removed Member From Class: ClassName=ifog-pcb-analogModule Member=C48
+Removed Member From Class: ClassName=ifog-pcb-analogModule Member=C49
+Removed Member From Class: ClassName=ifog-pcb-analogModule Member=L5
+Removed Member From Class: ClassName=ifog-pcb-analogModule Member=L6
+Added Pin To Net: NetName=NetC44_2 Pin=U2-49
+Added Pin To Net: NetName=NetC44_2 Pin=U2-52
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R16-2
+Added Pin To Net: NetName=NetR15_1 Pin=U2-35
+Added Net: Name=NetR15_1

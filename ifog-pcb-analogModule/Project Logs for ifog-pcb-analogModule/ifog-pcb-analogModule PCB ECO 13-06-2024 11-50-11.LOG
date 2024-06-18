@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C50 NewDesignator=C46
+Change Component Designator: OldDesignator=C51 NewDesignator=C47
+Added Component: Designator=PD1(Photodetector)
+Add component (AddParameter): Name = "Text Field1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Text Field2"; Value = "20"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PD1-GND
+Added Pin To Net: NetName=PD_CAT Pin=PD1-N
+Added Pin To Net: NetName=PD_ANO Pin=PD1-P
+Added Member To Class: ClassName=ifog-pcb-analogModule Member=Component PD1 PDS123-CSA-C0102

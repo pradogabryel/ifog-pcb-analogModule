@@ -1,0 +1,7 @@
+Added Component: Designator=C30(CAP_0603_S_WAL)
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C105K3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603C105K3RACTU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=+5VA Pin=C30-2
+Added Member To Class: ClassName=ifog-pcb-analogModule Member=Component C30 10u

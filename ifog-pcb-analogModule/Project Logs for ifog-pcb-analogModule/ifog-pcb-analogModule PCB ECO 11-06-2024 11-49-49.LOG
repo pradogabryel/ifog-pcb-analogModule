@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=L1 Old Footprint=FP-LQM18FN_00-IPC_C New Footprint=CAP_0603_S_WAL
+Change Component Footprint: Designator=L2 Old Footprint=FP-LQM18FN_00-IPC_C New Footprint=CAP_0603_S_WAL
+Change Component Footprint: Designator=L3 Old Footprint=FP-LQM18FN_00-IPC_C New Footprint=CAP_0603_S_WAL
+Change Component Footprint: Designator=L4 Old Footprint=FP-LQM18FN_00-IPC_C New Footprint=CAP_0603_S_WAL
+Change Component Footprint: Designator=L5 Old Footprint=FP-LQM18FN_00-IPC_C New Footprint=CAP_0603_S_WAL
+Change Component Footprint: Designator=L6 Old Footprint=FP-LQM18FN_00-IPC_C New Footprint=CAP_0603_S_WAL
+Change Component Library : Designator=L1 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Component Library : Designator=L2 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Component Library : Designator=L3 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Component Library : Designator=L4 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Component Library : Designator=L5 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Component Library : Designator=L6 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Managed Component Library Link : Designator=L1 Old VaultGUID= New VaultGUID= Old ItemGUID=6EAA7268-177F-43DB-9D94-2935D7354E99 New ItemGUID= Old RevisionGUID=FEF9E604-8482-47A6-A10F-B86D0EC9CD83 New RevisionGUID=
+Change Managed Component Library Link : Designator=L2 Old VaultGUID= New VaultGUID= Old ItemGUID=6EAA7268-177F-43DB-9D94-2935D7354E99 New ItemGUID= Old RevisionGUID=FEF9E604-8482-47A6-A10F-B86D0EC9CD83 New RevisionGUID=
+Change Managed Component Library Link : Designator=L3 Old VaultGUID= New VaultGUID= Old ItemGUID=6EAA7268-177F-43DB-9D94-2935D7354E99 New ItemGUID= Old RevisionGUID=FEF9E604-8482-47A6-A10F-B86D0EC9CD83 New RevisionGUID=
+Change Managed Component Library Link : Designator=L4 Old VaultGUID= New VaultGUID= Old ItemGUID=6EAA7268-177F-43DB-9D94-2935D7354E99 New ItemGUID= Old RevisionGUID=FEF9E604-8482-47A6-A10F-B86D0EC9CD83 New RevisionGUID=
+Change Managed Component Library Link : Designator=L5 Old VaultGUID= New VaultGUID= Old ItemGUID=6EAA7268-177F-43DB-9D94-2935D7354E99 New ItemGUID= Old RevisionGUID=FEF9E604-8482-47A6-A10F-B86D0EC9CD83 New RevisionGUID=
+Change Managed Component Library Link : Designator=L6 Old VaultGUID= New VaultGUID= Old ItemGUID=6EAA7268-177F-43DB-9D94-2935D7354E99 New ItemGUID= Old RevisionGUID=FEF9E604-8482-47A6-A10F-B86D0EC9CD83 New RevisionGUID=

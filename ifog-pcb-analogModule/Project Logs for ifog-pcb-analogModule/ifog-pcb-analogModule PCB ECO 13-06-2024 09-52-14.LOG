@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C18 Old Footprint=FP-F98M-MFG New Footprint=CAP_0603_S_WAL
+Change Component Footprint: Designator=C19 Old Footprint=FP-F98M-MFG New Footprint=CAP_0603_S_WAL
+Change Component Footprint: Designator=C20 Old Footprint=FP-F98M-MFG New Footprint=CAP_0603_S_WAL
+Change Component Footprint: Designator=C22 Old Footprint=FP-F98M-MFG New Footprint=CAP_0603_S_WAL
+Change Component Comment : Designator=C18 Old Comment=22uF New Comment=22u
+Change Component Comment : Designator=C22 Old Comment=22uF New Comment=22u
+Change Component Comment : Designator=C19 Old Comment=47uF New Comment=47u
+Change Component Comment : Designator=C20 Old Comment=47uF New Comment=47u
+Change Component Library : Designator=C18 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Component Library : Designator=C19 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Component Library : Designator=C20 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Component Library : Designator=C22 Old Library=Altium Content Vault New Library=ifog-pcb-analogModule_3.SCHLIB
+Change Managed Component Library Link : Designator=C18 Old VaultGUID= New VaultGUID= Old ItemGUID=C2D9562E-7652-4C02-B3F9-BBA5B08311BD New ItemGUID= Old RevisionGUID=33ADF06E-A3F5-4B6A-A413-309A450C8548 New RevisionGUID=
+Change Managed Component Library Link : Designator=C19 Old VaultGUID= New VaultGUID= Old ItemGUID=C2D9562E-7652-4C02-B3F9-BBA5B08311BD New ItemGUID= Old RevisionGUID=33ADF06E-A3F5-4B6A-A413-309A450C8548 New RevisionGUID=
+Change Managed Component Library Link : Designator=C20 Old VaultGUID= New VaultGUID= Old ItemGUID=C2D9562E-7652-4C02-B3F9-BBA5B08311BD New ItemGUID= Old RevisionGUID=33ADF06E-A3F5-4B6A-A413-309A450C8548 New RevisionGUID=
+Change Managed Component Library Link : Designator=C22 Old VaultGUID= New VaultGUID= Old ItemGUID=C2D9562E-7652-4C02-B3F9-BBA5B08311BD New ItemGUID= Old RevisionGUID=33ADF06E-A3F5-4B6A-A413-309A450C8548 New RevisionGUID=

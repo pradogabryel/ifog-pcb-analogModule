@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetU7_1 Pin=U7-1
+Removed Pin From Net: NetName=NetU7_2 Pin=U7-2
+Removed Pin From Net: NetName=NetU7_2 Pin=U7-3
+Removed Pin From Net: NetName=NetU7_5 Pin=U7-5
+Removed Pin From Net: NetName=NetU7_5 Pin=U7-6
+Removed Pin From Net: NetName=NetU7_1 Pin=U7-7
+Removed Member From Class: ClassName=ifog-pcb-analogModule Member=U?
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Added Pin To Net: NetName=NetU7_1 Pin=U7-1
+Added Pin To Net: NetName=NetU7_2 Pin=U7-2
+Added Pin To Net: NetName=NetU7_2 Pin=U7-3
+Added Pin To Net: NetName=NetU7_5 Pin=U7-5
+Added Pin To Net: NetName=NetU7_5 Pin=U7-6
+Added Pin To Net: NetName=NetU7_1 Pin=U7-7
