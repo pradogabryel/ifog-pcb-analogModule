@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=U1_VOUT Pin=C2-1
+Removed Pin From Net: NetName=U1_VOUT Pin=R1-2
+Removed Pin From Net: NetName=U1_VOUT Pin=R3-1
+Removed Pin From Net: NetName=U1_VOUT Pin=U1-1
+Change Net Name : Old Net Name=U1_VOUT New Net Name=U1_VOUTN
+Added Pin To Net: NetName=U1_VOUTP Pin=C2-1
+Added Pin To Net: NetName=U1_VOUTP Pin=R1-2
+Added Pin To Net: NetName=U1_VOUTP Pin=R3-1
+Added Pin To Net: NetName=U1_VOUTP Pin=U1-1
+Added Net: Name=U1_VOUTP
+Added Member To Class: ClassName=ifog-pcb-analogModule Member=Component U2 ADS1675IPAG

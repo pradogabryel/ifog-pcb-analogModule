@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=AD_START Pin=P1-2
+Added Pin To Net: NetName=AD_CS Pin=P1-3
+Added Pin To Net: NetName=AD_SCLK Pin=P1-4
+Added Pin To Net: NetName=AD_DOUT Pin=P1-5
+Added Pin To Net: NetName=AD_DRDY Pin=P1-6
+Added Pin To Net: NetName=AD_CLK_0 Pin=P1-7
+Added Pin To Net: NetName=+3VD Pin=P1-8
+Added Pin To Net: NetName=+5VA Pin=P1-9
